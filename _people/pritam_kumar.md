@@ -2,7 +2,7 @@
 layout: page
 firstname: Pritam
 lastname: Kumar
-description: MTech AI 
+description: M.Tech Students
 img: assets/img/people/msc/pritam.png
 redirect: https://www.linkedin.com/in/pritam-kumar-1b0982182/
 linkedin_username: Pritam Kumar
