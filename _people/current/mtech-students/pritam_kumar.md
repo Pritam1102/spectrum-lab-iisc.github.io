@@ -5,11 +5,11 @@ firstname: Pritam
 lastname: Kumar
 description: MTech AI 
 img: assets/img/people/current/mtech-students/pritam.png
-website: https://www.linkedin.com/in/pritam-kumar-1b0982182/
+website: [https://www.linkedin.com/in/pritam-kumar-1b0982182/](https://www.linkedin.com/in/pritam-kumar-1b0982182/)
 linkedin_username: Pritam Kumar
 github_username: pritam1102
 email: pritamkrr205@gmail.com
-alias: pritamkrr205
+alias: pritam
 category: M.Tech Students
 show: true
 year: 2026
